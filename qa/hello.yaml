@@ -13,7 +13,7 @@ metadata:
     app: hello
 
 spec:
-
+  replicas: 5
   selector:
 
     matchLabels:
